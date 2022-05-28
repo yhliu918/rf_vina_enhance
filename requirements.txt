@@ -1,0 +1,7 @@
+mgltools
+msms
+rdkit
+openbabel
+pymol
+plip
+vina4dv
